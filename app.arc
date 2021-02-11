@@ -10,6 +10,7 @@ node-events
 
 @events
 my-event
+  src events
 
 @tables
 data
