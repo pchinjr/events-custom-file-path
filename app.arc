@@ -2,7 +2,9 @@
 node-events
 
 @http
-post /my-event
+/my-event
+  method post
+  src my-event
 
 @static
 
